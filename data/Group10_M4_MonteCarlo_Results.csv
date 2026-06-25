@@ -1,0 +1,4 @@
+Risk ID,Risk,Type,Mean Probability,Impact P50 ($B),Impact P90 ($B),Expected Loss/Value mean ($B),EL P50 ($B),EL P90 ($B),Scenario VaR P90 ($B),Quant Likelihood (1-10)
+R-MSE,ADC market-share erosion,Threat,0.533,4.86,7.48,2.66,2.55,4.13,6.67,5
+R-006,Critical ADC talent poaching,Threat,0.55,0.65,0.95,0.37,0.35,0.54,0.87,5
+R-010,First-mover ADC combination advantage,Opportunity,0.5,1.64,2.11,0.83,0.81,1.12,1.95,5
